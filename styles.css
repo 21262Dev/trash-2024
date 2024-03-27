@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    background: tomato;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
